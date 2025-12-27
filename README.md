@@ -41,4 +41,15 @@ My research focuses on:
 
 ---
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,git,github,r,vscode,&perline=5)](https://skillicons.dev)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R)
+![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Static Badge](https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Static Badge](https://img.shields.io/badge/rstudioide-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
+![Static Badge](https://img.shields.io/badge/codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)
+
