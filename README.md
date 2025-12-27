@@ -1,8 +1,10 @@
 # About Me
-
 Hi there! I'm **Kioiku**, a student from the **Department of Life Science, National Taiwan University**.  
 Surprised? A biologist on GitHub 😄  
-I'm also a self-guided learner exploring the world of **web development**.
+I'm also a self-guided learner exploring the world of **web development**,  
+currently building small projects and learning by doing.  
+Dreaming of becoming a digital nomad 🌍
+
 
 ---
 
