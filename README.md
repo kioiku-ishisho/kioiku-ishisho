@@ -1,16 +1,39 @@
-# About me
-Hi, there! I'm Kioiku, from National Taiwan University Life Science Department.
-Surprised? A Biologist appear on Github.
-I'm also a self-guided learner of web development.
+# About Me
 
-## WebDev side projects
-[### 2026 Seoul Travel Guide](https://kioiku-ishisho.github.io/2026korea/index.html) 🇰🇷
-First time using Cursor AI to make my trip plan website. Using Firebase as back-end and connect the Open Weather and Exchange Rate API.
-### NYHC - 2025 Nasa Space Apps Hackathon
+Hi there! I'm **Kioiku**, a student from the **Department of Life Science, National Taiwan University**.  
+Surprised? A biologist on GitHub 😄  
+I'm also a self-guided learner exploring the world of **web development**.
 
-### Unisona choir official website
-processing... not yet
+---
 
-## Research
-I joined Mao's Lab in IONTU (Natoinal Taiwan University Institution of Oceangrapgy) in Feb.2023.
-Studying the relation between ocean mercury pollution and biomaginification.
+## 💻 Web Development Projects
+
+### 🇰🇷 [2026 Seoul Travel Guide](https://kioiku-ishisho.github.io/2026korea/index.html)
+My first project built with **Cursor AI**, created to plan my personal trip to Seoul.  
+- Firebase as the backend  
+- Integrated **OpenWeather API** and **Exchange Rate API**
+
+---
+
+### 🛰️ [NYHC – 2025 NASA Space Apps Hackathon](https://kioiku-ishisho.github.io/nyhc/)
+Member of the **"What's Going On"** team (📍 Taipei)  
+🏆 **Third Prize Winner** — *New York City Heat Solutions*  
+- Responsible for front-end design  
+- Collaborated on content structure and concept development
+
+---
+
+### 🎶 Unisona Choir Official Website
+🚧 *Currently under development*
+
+---
+
+## 🔬 Research Experience
+
+I have been a member of **Mao's Lab** at the  
+**Institute of Oceanography, National Taiwan University (IONTU)**  
+since **February 2023**.
+
+My research focuses on:
+- Ocean mercury pollution  
+- Biomagnification in marine ecosystems
