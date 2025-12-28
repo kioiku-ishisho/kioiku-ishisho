@@ -10,6 +10,15 @@ Dreaming of becoming a digital nomad 🌍
 
 ## 💻 Web Development Projects
 
+### 🏆 [Activity Scoreboard – Event Scoring Manager](https://activity-score-web-app.onrender.com/)
+Built to make hosting events easier: **everyone can edit the same event scoreboard**,  
+so scoring stays accurate and transparent during group activities.
+- **React** front-end
+- **Firebase** (database + auth)
+- Deployed on **Render**
+- Login system for multi-user collaboration
+
+---
 ### 🇰🇷 [2026 Seoul Travel Guide](https://kioiku-ishisho.github.io/2026korea/index.html)
 My first project built with **Cursor AI**, created to plan my personal trip to Seoul.  
 - Firebase as the backend  
@@ -22,16 +31,6 @@ Member of the **"What's Going On"** team (📍 Taipei)
 🏆 **Third Prize Winner** — *New York City Heat Solutions*  
 - Responsible for front-end design  
 - Collaborated on content structure and concept development
-
----
-
-### 🏆 Activity Scoreboard – Event Scoring Manager
-Built to make hosting events easier: **everyone can edit the same event scoreboard**,  
-so scoring stays accurate and transparent during group activities.
-- **React** front-end
-- **Firebase** (database + auth)
-- Deployed on **Render**
-- Login system for multi-user collaboration
 
 ---
 
