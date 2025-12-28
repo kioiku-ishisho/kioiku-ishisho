@@ -65,4 +65,5 @@ My research focuses on:
 ![Static Badge](https://img.shields.io/badge/codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
