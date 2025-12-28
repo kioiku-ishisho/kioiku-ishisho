@@ -25,6 +25,16 @@ Member of the **"What's Going On"** team (📍 Taipei)
 
 ---
 
+### 🏆 Activity Scoreboard – Event Scoring Manager
+Built to make hosting events easier: **everyone can edit the same event scoreboard**,  
+so scoring stays accurate and transparent during group activities.
+- **React** front-end
+- **Firebase** (database + auth)
+- Deployed on **Render**
+- Login system for multi-user collaboration
+
+---
+
 ### 🎶 Unisona Choir Official Website
 🚧 *Currently under development*
 
@@ -54,4 +64,6 @@ My research focuses on:
 ![Static Badge](https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/rstudioide-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
