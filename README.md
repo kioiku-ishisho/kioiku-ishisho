@@ -10,7 +10,7 @@ Dreaming of becoming a digital nomad 🌍
 
 ## 💻 Web Development Projects
 
-### 🏆 [Activity Scoreboard – Event Scoring Manager](https://activity-score-web-app.onrender.com/)
+### 🏆 [Activity Scoreboard – Event Scoring Manager](https://activity-score.vercel.app/)
 Built to make hosting events easier: **everyone can edit the same event scoreboard**,  
 so scoring stays accurate and transparent during group activities.
 - **React** front-end
