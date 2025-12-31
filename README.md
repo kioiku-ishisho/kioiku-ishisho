@@ -10,7 +10,7 @@ Dreaming of becoming a digital nomad 🌍
 
 ## 💻 Web Development Projects Profolio
 
-###🎶 [Unisona System – Choir Management Platform](https://github.com/kioiku-ishisho/unisona-system)
+### 🎶 [Unisona System – Choir Management Platform](https://github.com/kioiku-ishisho/unisona-system)  
 A real-world choir management system for rehearsals, events, dues, and collaborative logs, designed to replace fragmented tools with a single shared workspace.
 
 - Dropbox API integration (PDF & file storage)
