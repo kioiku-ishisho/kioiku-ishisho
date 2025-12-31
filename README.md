@@ -8,7 +8,16 @@ Dreaming of becoming a digital nomad 🌍
 
 ---
 
-## 💻 Web Development Projects
+## 💻 Web Development Projects Profolio
+
+###🎶 [Unisona System – Choir Management Platform](https://github.com/kioiku-ishisho/unisona-system)
+A real-world choir management system for rehearsals, events, dues, and collaborative logs, designed to replace fragmented tools with a single shared workspace.
+
+- Dropbox API integration (PDF & file storage)
+- AI-assisted development with OpenAI Codex
+- Git-based version control (branching & pull workflow)
+
+---
 
 ### 🏆 [Activity Scoreboard – Event Scoring Manager](https://activity-score.vercel.app/)
 Built to make hosting events easier: **everyone can edit the same event scoreboard**,  
@@ -31,11 +40,6 @@ Member of the **"What's Going On"** team (📍 Taipei)
 🏆 **Third Prize Winner** — *New York City Heat Solutions*  
 - Responsible for front-end design  
 - Collaborated on content structure and concept development
-
----
-
-### 🎶 Unisona Choir Official Website
-🚧 *Currently under development*
 
 ---
 
